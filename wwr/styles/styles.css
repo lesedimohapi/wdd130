@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Rock+Salt&display=swap');
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    padding: 35px;
+}
+
+#hero-msg h1, #hero_msg h4{
+    text-align: center;
+}
+
+.button-box{
+    text-align: center;
+}
+
+main section{
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+}
+
+body {
+    background-color: #7C98B3; 
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato';
+}
+header {
+    background-color:#BDD8EA;
+}
+nav a:hover {
+    background-color: rgb(65, 93, 219);
+}
+.book, .join{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+    background-color: forestgreen;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+}
+.book:hover, .join:hover{
+    background-color: #94B2CA;
+    color: #BDD8EA
+    
+}
+#background {
+    background-color: #89b5e1;
+}
+.msg{
+    background-color: #7ca5cc; 
+    padding: 55px;
+    line-height: 1.5em;
+
+}
+footer{
+    background-color: #7C98B3; 
+    margin-top: 200px;
+    padding: 25px 50px;
+}
+
+.logo{
+    width: 80px;
+}
+
+.icon{
+    width: 80px;
+    padding-top: 10px;
+
+}
+
+#hero-img {
+    width: 100%;
+}
+
+footer a {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+footer p {
+    font-size: 1.4em;
+}    
+footer p a:hover{
+    text-decoration: underline;
+}
+.msg h2 p{
+    color: black;
+    
+}
+h4{
+    color: black;
+    text-align: center;
+}
+
+.card-img {
+    border: 10px solid #3C5268;
+}
+
+main section img {
+    box-sizing: border-box;
+}
+.home-title {
+    margin-top: 10px;
+    font-size: 2em;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+}
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+
+}
+#logo_link{
+    padding-top: 5px;
+}
+.msg p{
+    padding-bottom: 15px;
+    font-size: .8em;
+}
+footer .social img{
+    padding-top: 15px;
+}
+h2 {
+    margin: 0;
+}
+.msg h2 {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+}
