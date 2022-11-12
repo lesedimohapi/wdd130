@@ -256,3 +256,139 @@ nav {
         margin-top: 25px;
     }
 }
+
+/* CSS for Blog Page on rivers */
+.intro {
+    background-image: url("https://images.pexels.com/photos/627924/pexels-photo-627924.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") ;
+    background-size:cover;
+    padding: 9rem 0;
+    margin-top:0px;
+    margin-bottom:50px;
+    z-index: 1;
+   
+}
+.intro .btn {
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+    background-color: forestgreen;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+}
+.intro h1 {
+    margin-top: 10px;
+    font-size: 2em;
+    font-family: 'Rock Salt';
+    color: black;
+    text-align: center;
+}
+.intro h2 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: #888;
+    line-height: 1.6;
+}
+.wrapintro {
+    background: #fff;
+    width: 700px;
+    padding: 3rem;
+    max-width: 90%;
+    margin: 0px auto;
+    text-align: center;
+}
+.heading h3 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    margin-bottom: 50px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	letter-spacing: 0;
+	font-weight: normal;
+	position: relative;
+	padding: 0 0 10px 0;
+	font-weight: normal;
+	line-height: normal;
+	color: #111111;
+	margin: 0
+}
+h3 {
+	font-size: 18px
+}
+h4 {
+	font-size: 16px
+}
+p {
+    margin: 0px;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 30px;
+    color: #212222;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.col-md-12, .col-md-6 {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.blog_cont h5 {
+    color: #79797a;
+    font-weight: 500;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.blog_cont h4 {
+    font-size: 32px;
+    color: #2c2c2d;
+    line-height: 40px;
+    font-weight: 600;
+    padding: 0;
+    margin: 0 0 20px 0;
+}
+.button_section a {
+    width: 180px;
+    height: 55px;
+    float: left;
+    background: #000;
+    text-align: center;
+    line-height: 55px;
+    color: #fff;
+    margin-right: 30px;
+    font-weight: 300;
+    font-size: 16px;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.blog_cont {
+    padding-top: 30px;
+}
+.full {
+	width: 100%;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.margin_top_30 {
+	margin-top: 30px;
+}
